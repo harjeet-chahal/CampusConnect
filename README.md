@@ -2,6 +2,12 @@
 
 A full-stack mobile application for managing campus events, built with React Native (Expo) and FastAPI.
 
+## Screenshots
+
+<img width="511" height="410" alt="Screenshot 2026-02-10 at 11 50 15 AM" src="https://github.com/user-attachments/assets/23d3ca08-4db7-4529-8e57-d8ccfa664dd6" />
+<img width="505" height="521" alt="Screenshot 2026-02-10 at 11 50 32 AM" src="https://github.com/user-attachments/assets/1eb0e74b-9c7b-4e1a-9b2d-f37da72e93d9" />
+<img width="506" height="351" alt="Screenshot 2026-02-10 at 11 50 45 AM" src="https://github.com/user-attachments/assets/883d5835-d553-41a4-b6cb-341915b33f2f" />
+
 ## 📱 Features
 
 - **User Authentication** - Register, login, and secure JWT-based authentication
