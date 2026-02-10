@@ -4,9 +4,9 @@ A full-stack mobile application for managing campus events, built with React Nat
 
 ## Screenshots
 
-<img width="511" height="410" alt="Screenshot 2026-02-10 at 11 50 15 AM" src="https://github.com/user-attachments/assets/23d3ca08-4db7-4529-8e57-d8ccfa664dd6" />
-<img width="505" height="521" alt="Screenshot 2026-02-10 at 11 50 32 AM" src="https://github.com/user-attachments/assets/1eb0e74b-9c7b-4e1a-9b2d-f37da72e93d9" />
-<img width="506" height="351" alt="Screenshot 2026-02-10 at 11 50 45 AM" src="https://github.com/user-attachments/assets/883d5835-d553-41a4-b6cb-341915b33f2f" />
+<img width="768" height="494" alt="Screenshot 2026-02-10 at 11 52 56 AM" src="https://github.com/user-attachments/assets/b01de5bf-04ba-4587-a0f2-0c06490f7d9d" />
+
+<img width="770" height="515" alt="Screenshot 2026-02-10 at 11 53 16 AM" src="https://github.com/user-attachments/assets/cb0055e9-e3f1-4036-87c2-f114e4383c08" />
 
 ## 📱 Features
 
@@ -428,12 +428,6 @@ npx expo start -c
 # Phone: Force close Expo Go, clear cache, reopen
 
 ---
-```
-## 📄 License
-
-This project is for educational purposes.
-
----
 
 ## 🎉 Credits
 
@@ -443,7 +437,3 @@ Built with:
 - PostgreSQL
 - Redis
 - Docker
-
-![image1](./1.jpeg) ![alt text](./2.jpeg) ![alt text](./3.jpeg)
-![alt text](./4.jpg) ![alt text](./5.jpeg) ![alt text](./6.jpg)
-**Happy Coding! 🚀**
