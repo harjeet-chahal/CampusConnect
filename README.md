@@ -438,7 +438,7 @@ Built with:
 - Redis
 - Docker
 
-![alt text](1.jpeg)
+![image1](1.jpeg)
 ![alt text](2.jpeg)
 ![alt text](3.jpeg)
 ![alt text](4.jpg)
