@@ -438,10 +438,10 @@ Built with:
 - Redis
 - Docker
 
-! [alt text](1.jpeg)
-! [alt text](2.jpeg)
-! [alt text](3.jpeg)
-! [alt text](4.jpg)
-! [alt text](5.jpeg)
-! [alt text](6.jpg)
+![alt text](1.jpeg)
+![alt text](2.jpeg)
+![alt text](3.jpeg)
+![alt text](4.jpg)
+![alt text](5.jpeg)
+![alt text](6.jpg)
 **Happy Coding! 🚀**
