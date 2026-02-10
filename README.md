@@ -422,7 +422,7 @@ npx expo start -c
 # Phone: Force close Expo Go, clear cache, reopen
 
 ---
-
+```
 ## 📄 License
 
 This project is for educational purposes.
